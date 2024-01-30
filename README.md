@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Yolan Mazajczyk
 #### I am a student developer
-I do content on development and design. I really enjoy lerning languages and frameworks such as PHP and Laravel.
+I do content on development and design and I really enjoy lerning languages and frameworks such as PHP and Laravel.
 
 - 🔭 I’m currently working on the new website of my compagny 
 - 🌱 I’m currently learning Javascript 
