@@ -3,7 +3,7 @@
 I do content on development and design and I really enjoy lerning languages and frameworks such as PHP and Laravel.
 
 - 🔭 I’m currently working on the new website of my compagny 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Vuejs on Ionic
 - ⚡ Fun fact: I'm also a DJ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolan11)](https://github.com/anuraghazra/github-readme-stats)
